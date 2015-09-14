@@ -1,2 +1,2 @@
 # 1023
-a game forming sum wqual to 1023 by adding odd numbers
+a game forming sum equal to 1023 by adding odd numbers
